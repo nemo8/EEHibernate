@@ -1,6 +1,6 @@
 package DAO;
 
-import defPac.Pet;
+import Pojo.Pet;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.query.Query;

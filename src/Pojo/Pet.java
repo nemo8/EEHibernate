@@ -1,4 +1,4 @@
-package defPac;
+package Pojo;
 
 import org.hibernate.annotations.Entity;
 
