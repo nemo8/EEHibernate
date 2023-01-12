@@ -1,4 +1,4 @@
-package Default;
+package DAO;
 
 import defPac.Pet;
 import org.hibernate.HibernateException;
@@ -6,8 +6,6 @@ import org.hibernate.Session;
 import org.hibernate.query.Query;
 
 import java.io.PrintWriter;
-import java.sql.*;
-import java.util.ArrayList;
 import java.util.List;
 
 public class DAOImp extends DAO<Pet> {

@@ -1,4 +1,4 @@
-package Default;
+package DAO;
 
 import defPac.Pet;
 import org.hibernate.HibernateException;

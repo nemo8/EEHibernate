@@ -1,4 +1,4 @@
-import Default.DAOImp;
+import DAO.DAOImp;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
